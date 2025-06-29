@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Butterfly, Menu, X } from 'lucide-react';
+import { Router as Butterfly, Menu, X } from 'lucide-react';
 
 interface HeaderProps {
   activeSection: string;
