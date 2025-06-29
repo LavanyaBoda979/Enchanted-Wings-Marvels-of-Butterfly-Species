@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Binoculars, FlaskConical, GraduationCap, Camera, MapPin, Users } from 'lucide-react';
+import { Binary as Binoculars, FlaskConical, GraduationCap, Camera, MapPin, Users } from 'lucide-react';
 
 const Scenarios: React.FC = () => {
   const scenarios = [
