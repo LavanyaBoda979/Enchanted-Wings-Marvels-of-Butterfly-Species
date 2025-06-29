@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Butterfly, Github, Mail, ExternalLink } from 'lucide-react';
+import { Router as Butterfly, Github, Mail, ExternalLink } from 'lucide-react';
 
 const Footer: React.FC = () => {
   return (
